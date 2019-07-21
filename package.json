@@ -1,7 +1,7 @@
 {
   "name": "bank-ocr-kata",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "ocr-parser.js",
   "author": "Emily Kapor-Mater <emily@emilyaviva.com>",
   "license": "MIT",
   "private": true,
@@ -10,5 +10,8 @@
   },
   "dependencies": {
     "lodash": "^4.17.15"
+  },
+  "scripts": {
+    "test": "jest"
   }
 }
