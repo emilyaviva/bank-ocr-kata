@@ -1,0 +1,14 @@
+{
+  "name": "bank-ocr-kata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Emily Kapor-Mater <emily@emilyaviva.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
